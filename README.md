@@ -22,8 +22,6 @@ Olá, meu nome é lucas.
 <img align="center" alt="Rafa-Python" height= "35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Rafa-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="center" alt="Rafa-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 </div>
-
-
   
   ##
  
