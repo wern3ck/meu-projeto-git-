@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745374090 source:c:\users\lucas\onedrive\documentos\lógica de programação\dia 22do 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
