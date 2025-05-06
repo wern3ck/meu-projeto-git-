@@ -4,6 +4,8 @@ Olá, meu nome é lucas.
 
 📚 - Faço um curso de machine learning e IA
 
+![snake gif](https://github.com/lucas-werneck/lucas-werneck/blob/output/github-contribution-grid-snake.gif)
+
 <img 
     align="left" 
     alt="GitHub Stats" 
